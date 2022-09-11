@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434226946202",
+    "firebase_url": "https://quick-reply-392d8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quick-reply-392d8",
+    "storage_bucket": "quick-reply-392d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434226946202:android:979ad8f45dcc4287f4ff23",
+        "android_client_info": {
+          "package_name": "com.devss.quickreply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434226946202-3l09k1h5c1p3tc0dihvg61ibjmd07j1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devss.quickreply",
+            "certificate_hash": "471d4f1a50a112d394f42fa02cb50fe7b215c525"
+          }
+        },
+        {
+          "client_id": "434226946202-v62tso6t31jn27gqf1icq2dtpdjie9i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTq9nd2bLPPEvpkZaCoVrw_xvSbWk7nPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434226946202-v62tso6t31jn27gqf1icq2dtpdjie9i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
